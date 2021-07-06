@@ -6,6 +6,25 @@ body{
     display:flex;
     margin-bottom: 100px;
 }
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: radial-gradient(orange, tomato);
+    border-radius: 25px;
+}
+.half-width h1{
+    font-size: 50px;
+}
+.half-width{
+    margin-top:100px;
+    margin-left: 5%;
+    width: 100%;
+}
+.first-image{
+    width: 100%;
+    margin-top:30px;
+    margin-right: 50px;
+}
 .third-section-para{
     text-align: center;
 }
