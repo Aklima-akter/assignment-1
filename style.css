@@ -34,3 +34,25 @@ body{
     border-radius:15px;
     padding: 25px;
 }
+.social{
+    box-shadow: 7px 7px 20px grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+.social-details{
+    width:35%;
+    text-align: center;
+}
+.food-color{
+    color: coral;
+}
+.network-color{
+    color: grey;
+    margin-left: 8px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 5px;
+}
