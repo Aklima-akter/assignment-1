@@ -12,8 +12,14 @@ body{
     background-image: radial-gradient(orange, tomato);
     border-radius: 25px;
 }
+.half-width2 p{
+    padding-bottom: 50px;
+}
+.half-width p{
+    padding-bottom: 30px;
+}
 .half-width h1{
-    font-size: 50px;
+    font-size: 70px;
 }
 .half-width{
     margin-top:100px;
@@ -23,14 +29,27 @@ body{
 .first-image{
     width: 100%;
     margin-top:30px;
-    margin-right: 50px;
+    margin: right 100px; 
+}
+.sec-img{
+    width: 40%;
+    margin-left: 100px;
+}
+.half-width2{
+    width:40%;
+    margin: 100px 100px 0 0;
+}
+.sec-section{
+    background-image: url(images/7.png);
+    padding-top:40px;
+    padding-left: 50px;
+    background-size: cover;
 }
 .third-section-para{
     text-align: center;
 }
 .recipe-cover-pic{
-    width:100%;
-    
+    width:100%; 
 }
 .recipe-title2{
     width:25%;
